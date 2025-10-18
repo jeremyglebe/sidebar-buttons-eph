@@ -2,6 +2,8 @@
 
 A lightweight and customizable FoundryVTT module that adds contextual buttons to the sidebar directories: Actors, Items, Journals, Macros, and Roll Tables.
 
+![Picture](./media/picture.png)
+
 ## 🎯 Features
 
 - **Personal View Button** – Displays actor or item artwork locally to the user.
