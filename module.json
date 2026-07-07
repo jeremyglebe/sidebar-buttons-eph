@@ -1,12 +1,16 @@
 {
     "id": "show-actor-art",
-    "title": "Sidebar Buttons ⫷𝗘𝗣𝗛⫸",
-    "description": "Configurable sidebar buttons for quick document actions.",
+    "title": "Sidebar Buttons ⫷𝗘𝗣𝗛⫸ (Fork)",
+    "description": "A maintained fork of Ephaltes' Sidebar Buttons module, providing configurable sidebar buttons for quick document actions.",
     "version": "2.2.0",
     "authors": [
         {
             "name": "Ephaltes",
             "url": "https://discord.com/invite/gb4UHaAsc4"
+        },
+        {
+            "name": "Jeremy Glebe (fork maintainer)",
+            "url": "https://github.com/jeremyglebe"
         }
     ],
     "esmodules": [
@@ -64,9 +68,12 @@
             "path": "lang/ja.json"
         }
     ],
-    "url": "https://github.com/ephmac/show-actor-art",
-    "manifest": "https://raw.githubusercontent.com/ephmac/show-actor-art/main/module.json",
-    "download": "https://github.com/ephmac/show-actor-art/archive/refs/heads/main.zip",
+    "url": "https://github.com/jeremyglebe/sidebar-buttons-eph",
+    "manifest": "https://github.com/jeremyglebe/sidebar-buttons-eph/releases/latest/download/module.json",
+    "download": "https://github.com/jeremyglebe/sidebar-buttons-eph/releases/download/v2.2.0/show-actor-art.zip",
+    "readme": "https://github.com/jeremyglebe/sidebar-buttons-eph/blob/main/README.md",
+    "changelog": "https://github.com/jeremyglebe/sidebar-buttons-eph/blob/main/CHANGELOG.md",
+    "bugs": "https://github.com/jeremyglebe/sidebar-buttons-eph/issues",
     "compatibility": {
         "minimum": "13",
         "verified": "14"
