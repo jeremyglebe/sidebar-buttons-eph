@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.2.1] - 2026-07-07
+### Changed
+- Added a README notice identifying this repository as a maintained fork with original project and manifest links.
+- Updated release metadata for the fork package URLs.
+
 ## [2.2.0] - 2026-07-07
 ### Changed
 - Marked the module as verified for Foundry VTT v14.

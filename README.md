@@ -1,5 +1,16 @@
 # Sidebar Buttons ⫷𝗘𝗣𝗛⫸
 
+> **Maintained fork notice**
+>
+> This repository is a maintained fork of Ephaltes' original Sidebar Buttons module.
+> Original project: [ephmac/show-actor-art](https://github.com/ephmac/show-actor-art)
+>
+> To install this fork in Foundry VTT, copy and paste this manifest URL into Foundry's "Install Module" dialog:
+>
+> ```text
+> https://github.com/jeremyglebe/sidebar-buttons-eph/releases/latest/download/module.json
+> ```
+
 A lightweight and customizable FoundryVTT module that adds contextual buttons to the sidebar directories: Actors, Items, Journals, Macros, and Roll Tables.
 
 ![Picture](./media/picture.png)
