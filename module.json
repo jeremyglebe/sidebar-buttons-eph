@@ -2,7 +2,7 @@
     "id": "show-actor-art",
     "title": "Sidebar Buttons ⫷𝗘𝗣𝗛⫸",
     "description": "Configurable sidebar buttons for quick document actions.",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "authors": [
         {
             "name": "Ephaltes",
@@ -16,6 +16,7 @@
     "styles": [
         "styles/styles.css"
     ],
+    "socket": true,
     "languages": [
         {
             "lang": "en",
@@ -68,6 +69,6 @@
     "download": "https://github.com/ephmac/show-actor-art/archive/refs/heads/main.zip",
     "compatibility": {
         "minimum": "13",
-        "verified": "13"
+        "verified": "14"
     }
 }

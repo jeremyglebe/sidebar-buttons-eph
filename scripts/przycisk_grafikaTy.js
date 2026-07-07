@@ -15,7 +15,11 @@ export function grafikaTy(element) {
   button.appendChild(icon);
 
   button.addEventListener("click", () => {
-    const popout = new ImagePopout(entity.img, { title: entity.name });
+    const popout = new ImagePopout({
+      src: entity.img,
+      uuid: entity.uuid,
+      window: { title: entity.name }
+    });
     popout.render(true);
   });
 

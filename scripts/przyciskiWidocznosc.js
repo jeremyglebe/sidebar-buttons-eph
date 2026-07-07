@@ -9,6 +9,8 @@ export function dodajPrzyciskiDoSidebaru(html, typ) {
   const ustawienia = game.settings.get("show-actor-art", "przyciski");
 
   elementy.forEach(element => {
+    element.querySelector(".sidebarButtons_wrapper")?.remove();
+
     if (typ === "actor") {
       dodajJesliIstnieje(element, ustawienia.grafikaTy.aktorzy, grafikaTy);
       dodajJesliIstnieje(element, ustawienia.grafikaWszyscy.aktorzy, grafikaWszyscy);

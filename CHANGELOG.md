@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0] - 2026-07-07
+### Changed
+- Marked the module as verified for Foundry VTT v14.
+- Added Foundry V14 ApplicationV2 sidebar render hook support while keeping v13 directory hooks.
+- Updated image popout creation for the v13/v14 ApplicationV2 API.
+- Declared and handled the module socket namespace for cross-client settings refreshes.
+
 ## [2.1.0] - 2025-06-30
 ### Changed
 - Small wrapper fix – buttons no longer waste space.
