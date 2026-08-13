@@ -1,4 +1,4 @@
-# Sidebar Buttons ⫷𝗘𝗣𝗛⫸
+# Drowsy's Fork of Sidebar Buttons ⫷𝗘𝗣𝗛⫸
 
 > **Maintained fork notice**
 >

@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.2] - 2026-08-13
+### Changed
+- Renamed the module to "Drowsy's Fork of Sidebar Buttons ⫷𝗘𝗣𝗛⫸" so Drowsy's modules sort together in the Foundry module list.
+
 ## [2.2.1] - 2026-07-07
 ### Changed
 - Added a README notice identifying this repository as a maintained fork with original project and manifest links.
